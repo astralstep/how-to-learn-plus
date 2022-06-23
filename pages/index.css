@@ -1,0 +1,4 @@
+@import url(../blocks/page/page.css);
+div {
+    border:1px solid red 
+}

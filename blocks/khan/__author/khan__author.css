@@ -1,6 +1,7 @@
 .khan__author {
-    display: block;
-    line-height: 42px;
-    font-weight: normal;
-    font-size: 30px;
+  display: block;
+  line-height: 42px;
+  font-weight: 400;
+  font-size: 30px;
+  margin: 0;
 }

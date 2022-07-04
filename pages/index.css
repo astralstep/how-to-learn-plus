@@ -1,6 +1,7 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/link/link.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
@@ -23,11 +24,6 @@
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__item/cards__item.css);
 @import url(../blocks/cards/__image/cards__image.css);
-@import url(../blocks/cards/__image/_number/cards__image_number_one.css);
-@import url(../blocks/cards/__image/_number/cards__image_number_two.css);
-@import url(../blocks/cards/__image/_number/cards__image_number_three.css);
-@import url(../blocks/cards/__image/_number/cards__image_number_four.css);
-@import url(../blocks/cards/__image/_number/cards__image_number_five.css);
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__description/cards__description.css);
 @import url(../blocks/video/video.css);
@@ -76,11 +72,3 @@
 @import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
-
-/*
-
-div, img, p, h1, h2, h3, h4, .header {
-    border:1px solid red
-}
-
-*/
